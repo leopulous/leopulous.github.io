@@ -1,6 +1,6 @@
 - layout: top-middle
   name: HangMan
   quote: >
-    A <mark>Python</mark> game project inspired by the book ***Python Crash Course*** by Eric Matthes.
+    A <mark>Python</mark> game project inspired by the book Python Crash Course by Eric Matthes.
   description: |
     Utilizes the free and open source <mark>Pygame</mark> library to make game applications and is playable on Windows.
