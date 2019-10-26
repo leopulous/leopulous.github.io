@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Thu Lam Nguyen
 title: Undergraduate Sofware Development Student
 email: nguyenl9@myumanitoba.ca
-website: www.jwgmedia.co.uk
+website: https://leopulous.github.io/
 
 # Social links
 github_username:  https://github.com/leopulous
@@ -16,12 +16,12 @@ linkedin_username: www.linkedin.com/in/liamnguyenn98
 # about_title: About Me
 about_profile_image: images/avatar.png
 about_content: |
-  Hello! My name is Lam. I'm currently a third year Computer Science student with passion for coding.
-  I love designing and develop innovative applications that stimulates my curiosity and at the same time improve my programming skills.
-  I enjoy interacting with people, spread ideas and exchange views to help each other improve.
-  My favorite programming quote is:
-  "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." 
-  - Patrick McKenzie
+  Hello! My name is Lam. I'm currently a third year Computer Science student with passion for coding.  
+  I love designing and develop innovative applications that stimulates my curiosity and at the same time improve my programming skills.  
+  I enjoy interacting with people, spread ideas and exchange views to help each other improve.  
+  My favorite programming quote is:  
+  "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."   
+  - Patrick McKenzie  
   My specialties are
   <mark>Java</mark>,
   <mark>Python</mark>,
