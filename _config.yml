@@ -1,45 +1,36 @@
 # Site
-repository: sproogen/jameswgrant
+repository: leopulous/leopulous.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: James Grant
-title: Full Stack & Mobile Developer
-email: james@jwgmedia.co.uk
+name: Thu Lam Nguyen
+title: Undergraduate Sofware Development Student
+email: nguyenl9@myumanitoba.ca
 website: www.jwgmedia.co.uk
 
 # Social links
-twitter_username: sproogen
-github_username:  sproogen
-# dribbble_username:
-# facebook_username:
-# flickr_username:
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# pinterest_username:
-# youtube_username:
-# googleplus_username:
+github_username:  https://github.com/leopulous
+linkedin_username: www.linkedin.com/in/liamnguyenn98
 
 # About Section
 # about_title: About Me
-about_profile_image: images/jg.jpg
+about_profile_image: images/avatar.png
 about_content: |
-  Hi, my name is James Grant, I'm a full stack web and mobile app developer with over 6 years experience, based in the South West.
-  I am currently working for the Royal Bank of Scotland as a frontend software engineer on a comercial banking platform.
-
-  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
-  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
-  with something new. The things that I currently have the most experience working with are:
-  <mark>ES6 Javascript</mark>,
-  <mark>React &amp; Redux</mark>,
+  Hello! My name is Lam. I'm currently a third year Computer Science student with passion for coding.
+  I love designing and develop innovative applications that stimulates my curiosity and at the same time improve my programming skills.
+  I enjoy interacting with people, spread ideas and exchange views to help each other improve.
+  My favorite programming quote is:
+  "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." 
+  - Patrick McKenzie
+  My specialties are
   <mark>Java</mark>,
-  <mark>PHP</mark>,
-  <mark>MySQL</mark>,
-  <mark>Symfony</mark>,
-  <mark>Android</mark>,
-  <mark>SASS</mark>,
-  <mark>git</mark> and
-  <mark>AWS</mark> services.
+  <mark>Python</mark>,
+  <mark>SQL</mark>,
+  <mark>C++</mark>,
+  <mark>C</mark>,
+  <mark>Ruby</mark>,
+  <mark>HTML</mark>,
+  <mark>CSS</mark>.
 
 # Projects Section
 # projects_title: Projects
@@ -67,7 +58,7 @@ more_content: |
   Bristol's indoor climbing centres or down the Rec supporting Bath Rugby.
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
