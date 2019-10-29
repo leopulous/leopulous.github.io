@@ -4,7 +4,6 @@ Either you are writing a resume from scratch or forking a template resume and ed
 
 ---
 ## Table of content
-- [Writing a resume in Markdown and host it on GitHub Pages](#writing-a-resume-in-markdown-and-host-it-on-github-pages)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Download and Installing Atom](#download-and-installing-atom)
