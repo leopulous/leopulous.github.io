@@ -44,7 +44,7 @@ First off, we write and edit our resume on Atom. Here is what you need to instal
   1. Visit Atom's [website](https://atom.io).
   2. Press on the yellow download button on Atom's front page.  
   ![Atom page](/images/1.png "Atom front page")   
-  3. After directing the folder, you want to save the file on, click save to downloaded file onto your computer.
+  3. After directing the folder to save the file on, click save to download file onto your computer.
   4. Launch the Atom's setup file from the download directory; Atom installs itself without taking the user through many configuration steps.
   5. When Atom finishes installing, it launches into the program. You should see this Atom's window:  
   ![Atom UI](/images/2.png "Atom UI")
@@ -53,14 +53,14 @@ First off, we write and edit our resume on Atom. Here is what you need to instal
 
 Now that we have Atom installed, we can go ahead and create our markdown file:  
   - From the top left menu, click on **File** and choose **New File** from the drop-down menu or use the keyboard shortcut `Ctrl + N`.
-  - It opens an untitled tab on your Atom's application.
-    - To have more space, you should close other opened tab that we don't need by pressing on the X button on the tab.  
+  - It opens an untitled tab on the Atom's application.
+    - To have more space, close other opened tab that we don't need by pressing on the X button on the tab.  
 
 Before we start writing the resume, it's a good practice to save our files first:  
   - Save the file into a directory by either using the short cut `Ctrl + Shift + S` or choose *Save as* from the **File** drop-down menu.  
   - Enter our file name `index.md`. Now we can write our resume on this file and save it regularly in Atom using `Ctrl + S`.
   - To view our Markdown live as we write the resume, on the upper toolbar, click on **Packages** and hover over **Markdown Preview** on the drop-down menu.
-  - `Toggle Preview` shows you a standard preview on Atom. `Toggle GitHub Style` provides a preview of your Markdown file should you ever wish to host your resume on GitHub. You can choose either, depending on your preference.
+  - `Toggle Preview` shows a standard preview on Atom. `Toggle GitHub Style` provides a preview of the Markdown file should you ever wish to host a resume on GitHub. You can choose either, depending on your preference.
 
 ## Markdown and Resume
 
@@ -120,8 +120,8 @@ Our website needs a folder to hold the data. We should apply the following order
  ![Quick Setup](/images/5.png "Quick Setup")
  6. Since we are uploading our local files, click on the `uploading an existing file` hyperlink. Then an upload dialog box opens where you navigate to the folder path where your Markdown-formatted resume is.
  7. Once the file has finished uploading, scroll down to the bottom of the webpage and enter descriptions, then click on commit changes to the branch.
- 8. Your `README.md` shows under the list of files in the repository. To view your website where your Markdown Resume is, go to this `Settings` tab.
- 9. Scroll down the Settings page until you see the `GitHub Pages` headings. Your site needs a `Source` so choose the `master` branch.  
+ 8. The `README.md` file shows under the list of files in the repository. To view the website where the Markdown Resume is, go to this `Settings` tab.
+ 9. Scroll down the Settings page until you see the `GitHub Pages` headings. The site needs a `Source` so choose the `master` branch.  
  ![GitHub Pages](/images/6.png "GitHub Pages")
 
 The URL hyperlink should take you to a new page where your resume is hosted.
@@ -151,7 +151,7 @@ It's best to read over the template's README.md to have a good view of where to 
 The first file we visit is `_config.yml`.
    - The `_config.yml` file should include our name and contact information.  
    ![_cofig.yml](/images/8.png "_cofig.yml")
-   - You can edit the titles of headings according to your resume headers.
+   - Edit the titles of headings according to resume headers.
    - Comment out any unnecessary values and headers with `#` or delete them.
    - Follow the notes in the file that the author noted on what we can make changes to.
    - A `|`  symbol after a key and before a value allows new lines for paragraphs, while a `>` symbol turns new lines into spaces.
