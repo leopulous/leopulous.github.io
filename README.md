@@ -60,7 +60,7 @@ Before we start writing the resume, it's a good practice to save our files first
   - Save the file into a directory by either using the short cut `Ctrl + Shift + S` or choose *Save as* from the **File** drop-down menu.  
   - Enter our file name `index.md`. Now we can write our resume on this file and save it regularly in Atom using `Ctrl + S`.
   - To view our Markdown live as we write the resume, on the upper toolbar, click on **Packages** and hover over **Markdown Preview** on the drop-down menu.
-  - Toggle Preview` shows you a standard preview on Atom. `Toggle GitHub Style` provides a preview of your Markdown file should you ever wish to host your resume on GitHub. You can choose either, depending on your preference.
+  - `Toggle Preview` shows you a standard preview on Atom. `Toggle GitHub Style` provides a preview of your Markdown file should you ever wish to host your resume on GitHub. You can choose either, depending on your preference.
 
 ## Markdown and Resume
 
