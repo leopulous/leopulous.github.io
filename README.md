@@ -1,6 +1,6 @@
 # Writing a resume in Markdown and host it on GitHub Pages
 
-Either you are writing a resume from scratch or forking a template resume and edit it in Markdown, this guide is your one stop for everything you need to know about resume writing in Markdown. This will not be a sole guide on writing a resume or a Markdown tutorial. However, we will include some of their references in our documentation.
+Whether you are writing a resume from scratch or forking a template resume and edit it in Markdown, this guide is your one stop for everything you need to know about resume writing in Markdown. This will not be a sole guide on writing a resume or a Markdown tutorial. However, we will include some of their references in our documentation.
 
 ---
 ## Table of content
