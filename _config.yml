@@ -16,9 +16,9 @@ linkedin_username: www.linkedin.com/in/liamnguyenn98
 # about_title: About Me
 about_profile_image: images/avatar.png
 about_content: |
-  Hello! My name is Lam. I'm currently a third year Computer Science student with passion for coding.
-  I love designing and develop innovative applications that stimulates my curiosity and at the same time improve my programming skills. 
-  I enjoy interacting with people, spread ideas and exchange views to help each other improve. 
+  Hello! My name is Lam. I'm currently a third year Computer Science student with a passion for coding.
+  I love designing and developing innovative applications that stimulate my curiosity and at the same time improve my programming skills. 
+  I enjoy interacting with people, spreading ideas and exchanging views to help others improve. 
   
  
   My favorite programming quote is: 
@@ -69,13 +69,13 @@ more_content: |
   develop a more efficient technique to deal with a problem head-on. This works well with my assignment agenda and personal projects.
 
   I'm a realistic and goal-oriented individual. I value hard work and effort, which makes them my working style. When approaching a 
-  difficult dilemma, I would take an overall look at the problem and break it down into parts. I believe that a throughout understanding
-  of the structure gives me a better vision at all the possibilities that I can do.
+  difficult dilemma, I would take an overall look at the problem and break it down into parts. I believe that a thorough understanding
+  of the structure gives me a better view of all the possibilities.
 
-  Finally, I value team work and collaborations. As much as I admire and respect other people, I love to hear other people's ideas and 
+  Finally, I value team work and collaborations. I admire and respect other people, hence I love to consider other people's ideas and 
   visions. I believe that by encouraging developers to voice themselves, there are many valuable ideas that comes with it. At the end of
-  the day, the product is meant to reflect on the heart and soul of the entire group. By sharing the same goal across the team, we can 
-  develop something that speaks volume to the community.
+  the day, the product is meant to reflect the heart and soul of the entire group. By sharing the same goal across the team, we can 
+  develop something that speaks volumes to the community.
 
 # Footer
 footer_show_references: true
