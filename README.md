@@ -88,11 +88,11 @@ Ordering the information in your resume is critical technique to utilize the Mar
 
 Markdown comes in handy for convenient highlighting of important information in our resume. It is also easy to read even in the non-preview window.  
 Here are tips and pointers to make the most out of Markdown in our resume:  
-> 1. Different Markdown headers can help highlight headers quick and easily with different fonts.
-> 2. Highlight keywords and phrases with emphasis syntax or make them stand out with blockquotes.
-> 3. Outline your experiences and skills using ordered and unordered list.
-> 4. Separate different sections with horizontal rules.
-> 5. Line break is to separate unconnected paragraphs and provide space to the resume's look.  
+ 1. Different Markdown headers can help highlight headers quick and easily with different fonts.
+ 2. Highlight keywords and phrases with emphasis syntax or make them stand out with blockquotes.
+ 3. Outline your experiences and skills using ordered and unordered list.
+ 4. Separate different sections with horizontal rules.
+ 5. Line break is to separate unconnected paragraphs and provide space to the resume's look.  
 
 ---
 ## Hosting your resume and README on GitHub Pages
@@ -101,25 +101,25 @@ Once you have written your resume and README in Markdown, they are ready to be h
 
 ### Creating a GitHub account
 GitHub Pages provides each GitHub account with a public site. In order to host your website, we need a GitHub account:
-> 1. Visit [GitHub](https://github.com) and enter your information on `Username`, `Email` and `Password` textbox.  
-> ![GitHub home page](/images/3.png "GitHub home page")
-> 2. After you finished, press on `Sign up for GitHub` and we have created a GitHub account. You will need to choose a Personal Plan to use public or private repositories depending on your preferences.
+ 1. Visit [GitHub](https://github.com) and enter your information on `Username`, `Email` and `Password` textbox.  
+ ![GitHub home page](/images/3.png "GitHub home page")
+ 2. After you finished, press on `Sign up for GitHub` and we have created a GitHub account. You will need to choose a Personal Plan to use public or private repositories depending on your preferences.
 
 ### Create a repository and host your website
 
 Our website needs a folder to hold the data. We will apply the following order of procedure to host our website:
-> 1. Create a new repository using the green `New` button on the leftmost `Repository` tab.
-> 2. You will be taken to a new site with a **Create a new repository** header:  
-> ![New repository](/images/4.png "Create a new repository")
-> 3. In `Repository name` textbox, enter _username_.github.io, where *username* is your username on GitHub. Change other settings as desired.
-> 4. Since we have a written ```README.md```, we can skip past the `Initialize this repository with a README` and upload our own later.
-> 5. After pressing on `Create Repository`, GitHub takes you to a `Quick Setup` page, where you can choose from a variety of choices on how to fetch data into your repository.  
-> ![Quick Setup](/images/5.png "Quick Setup")
-> 6. Since we are uploading our local files, click on the `uploading an existing file` hyperlink. Then an upload dialog box will open where you will navigate to the folder path where your Markdown formatted resume is.
-> 7. Once the file has finished uploading, scroll down to the bottom of the webpage and enter descriptions, then click on commit changes to the branch.
-> 8. While your `README.md` is displayed under the list of files in the repository, to view your website where your Markdown Resume is, go to this `Settings` tab.
-> 9. Scroll down the Settings page until you see the `GitHub Pages` headings. Your site needs a `Source` so choose the `master` branch.  
-> ![GitHub Pages](/images/6.png "GitHub Pages")
+ 1. Create a new repository using the green `New` button on the leftmost `Repository` tab.
+ 2. You will be taken to a new site with a **Create a new repository** header:  
+ ![New repository](/images/4.png "Create a new repository")
+ 3. In `Repository name` textbox, enter _username_.github.io, where *username* is your username on GitHub. Change other settings as desired.
+ 4. Since we have a written ```README.md```, we can skip past the `Initialize this repository with a README` and upload our own later.
+ 5. After pressing on `Create Repository`, GitHub takes you to a `Quick Setup` page, where you can choose from a variety of choices on how to fetch data into your repository.  
+ ![Quick Setup](/images/5.png "Quick Setup")
+ 6. Since we are uploading our local files, click on the `uploading an existing file` hyperlink. Then an upload dialog box will open where you will navigate to the folder path where your Markdown formatted resume is.
+ 7. Once the file has finished uploading, scroll down to the bottom of the webpage and enter descriptions, then click on commit changes to the branch.
+ 8. While your `README.md` is displayed under the list of files in the repository, to view your website where your Markdown Resume is, go to this `Settings` tab.
+ 9. Scroll down the Settings page until you see the `GitHub Pages` headings. Your site needs a `Source` so choose the `master` branch.  
+ ![GitHub Pages](/images/6.png "GitHub Pages")
 
 The URL hyperlink should take you to a new page where your resume is hosted.
 
@@ -186,7 +186,6 @@ The talented developer James Grant who created the `modern-resume-theme` Jekyll 
 ---
 ## FAQs
 
----
 **Question**: The `.yml` files in `_data` folder doesn't cover enough sections of my resume. What should I do?  
 
 **Answer**: You can, in fact, create another `.yml` file for other additional sections like Soft Skills, Events Participated, Awards but you have to learn Jekyll and HTML / CSS syntax to edit the layout files in `_layouts` folder to include new files.  
