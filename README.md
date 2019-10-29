@@ -186,7 +186,6 @@ The talented developer James Grant who created the `modern-resume-theme` Jekyll 
 ---
 ## FAQs
 
----
 **Question**: The `.yml` files in `_data` folder doesn't cover enough sections of my resume. What should I do?  
 
 **Answer**: You can, in fact, create another `.yml` file for other additional sections like Soft Skills, Events Participated, Awards but you have to learn Jekyll and HTML / CSS syntax to edit the layout files in `_layouts` folder to include new files.  
