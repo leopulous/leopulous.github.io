@@ -40,11 +40,11 @@ We will write and edit our resume on Atom. What you need to install Atom:
 ### Download and Installing Atom
   1. Visit Atom's [website](https://atom.io).
   2. Press on the yellow download button on Atom's front page.  
-  ![Atom page](https://ibb.co/MGxvRt8 "Atom front page")   
+  ![Atom page](/images/1.png "Atom front page")   
   3. After directing the folder you want to save the file on, click save to downloaded file onto your computer.
   4. Launch the Atom's setup file from the download directory, Atom will install itself without taking the user through many configuration steps.
   5. When Atom finishes installing, it will launch into the program. You should see this Atom's window:  
-  ![Atom UI](https://ibb.co/3vQkgB5 "Atom UI")
+  ![Atom UI](/images/2.png "Atom UI")
 
 ### Working with Atom
 
@@ -102,7 +102,7 @@ Once you have written your resume and README in Markdown, they are ready to be h
 ### Creating a GitHub account
 GitHub Pages provides each GitHub account with a public site. In order to host your website, we need a GitHub account:
 > 1. Visit [GitHub](https://github.com) and enter your information on `Username`, `Email` and `Password` textbox.  
-> ![GitHub home page](https://ibb.co/NY4Yjs9 "GitHub home page")
+> ![GitHub home page](/images/3.png "GitHub home page")
 > 2. After you finished, press on `Sign up for GitHub` and we have created a GitHub account. You will need to choose a Personal Plan to use public or private repositories depending on your preferences.
 
 ### Create a repository and host your website
@@ -110,16 +110,16 @@ GitHub Pages provides each GitHub account with a public site. In order to host y
 Our website needs a folder to hold the data. We will apply the following order of procedure to host our website:
 > 1. Create a new repository using the green `New` button on the leftmost `Repository` tab.
 > 2. You will be taken to a new site with a **Create a new repository** header:  
-> ![New repository](https://ibb.co/kQ69w0t "Create a new repository")
+> ![New repository](/images/4.png "Create a new repository")
 > 3. In `Repository name` textbox, enter _username_.github.io, where *username* is your username on GitHub. Change other settings as desired.
 > 4. Since we have a written ```README.md```, we can skip past the `Initialize this repository with a README` and upload our own later.
 > 5. After pressing on `Create Repository`, GitHub takes you to a `Quick Setup` page, where you can choose from a variety of choices on how to fetch data into your repository.  
-> ![Quick Setup](https://ibb.co/1mL3p1G "Quick Setup")
+> ![Quick Setup](/images/5.png "Quick Setup")
 > 6. Since we are uploading our local files, click on the `uploading an existing file` hyperlink. Then an upload dialog box will open where you will navigate to the folder path where your Markdown formatted resume is.
 > 7. Once the file has finished uploading, scroll down to the bottom of the webpage and enter descriptions, then click on commit changes to the branch.
 > 8. While your `README.md` is displayed under the list of files in the repository, to view your website where your Markdown Resume is, go to this `Settings` tab.
 > 9. Scroll down the Settings page until you see the `GitHub Pages` headings. Your site needs a `Source` so choose the `master` branch.  
-> ![GitHub Pages](https://ibb.co/KXwtLvJ "GitHub Pages")
+> ![GitHub Pages](/images/6.png "GitHub Pages")
 
 The URL hyperlink should take you to a new page where your resume is hosted.
 
@@ -135,7 +135,7 @@ These following steps will demonstrate how to fork a Jekyll theme on GitHub repo
 > 2. On the same line with the repository's name, to the right is the `Fork` button. To fork is to make a copy of a repository, which means you can freely experiment it without affecting the original files.
 > 3. After pressing on `Fork`, the first thing we do is to rename the reposity to match our site. This is because GitHub needs to host repository with the correct format ```_username_.github.io```.  
   > - To edit repository's name, go the `Settings` tab and insert the new name into the textbox.  
-   ![Settings tab](https://ibb.co/9GMNFMP "Settings tab")  
+   ![Settings tab](/images/7.png "Settings tab")  
 > 4.  Remove any file named `CNAME`. Jekyll template designers usually leave a `CNAME` file with the link to their custom domain as an alternative link for ```_username_.github.io```. Not removing the `CNAME` will cause problem when GitHub Pages tries to host your website.
 
 ### Format your resume with Jekyll template
@@ -147,7 +147,7 @@ Note that YAML is a data-serialization language so our main goal is translating 
 It's best to read over the template's README.md to have a good view of where to store our information.   
 The first file we visit is `_config.yml`.
    - The `_config.yml` file should include our name and contact information.  
-   ![_cofig.yml](https://ibb.co/LPs53Rk "_cofig.yml")
+   ![_cofig.yml](/images/8.png "_cofig.yml")
    - You can edit the titles of headings according to your resume headers.
    - Comment out any unnecessary values and headers with `#` or just delete them.
    - Follow the notes in the file that the author noted on what we can make changes to.
@@ -156,7 +156,7 @@ The first file we visit is `_config.yml`.
 For other parts such as Education, Experience, Projects etc., the `_data` folder usually provide these information in terms of separate `.yml` files.
 - Overall, data within a `.yml` is usually stored as a key - value pair. For the files already available in the folder you can change the value information with your own and create new key - value pair should you wish. 
 - The editing style is similar to how we did for `_config.yml`, only without headers and we have to divide information across several files.  
-  ![_data folder](https://ibb.co/z4tNQ9g "_data folder")
+  ![_data folder](/images/9.png "_data folder")
 
 ## Tools and References
 
@@ -186,6 +186,7 @@ The talented developer James Grant who created the `modern-resume-theme` Jekyll 
 ---
 ## FAQs
 
+---
 **Question**: The `.yml` files in `_data` folder doesn't cover enough sections of my resume. What should I do?  
 
 **Answer**: You can, in fact, create another `.yml` file for other additional sections like Soft Skills, Events Participated, Awards but you have to learn Jekyll and HTML / CSS syntax to edit the layout files in `_layouts` folder to include new files.  
