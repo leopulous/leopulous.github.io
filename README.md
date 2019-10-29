@@ -5,6 +5,7 @@ Whether you are writing a resume from scratch or forking a template resume and e
 ---
 ## Table of content
   - [Getting Started](#getting-started)
+    - [Intended Audience](#intended-audience)
     - [Prerequisites](#prerequisites)
     - [Download and Installing Atom](#download-and-installing-atom)
     - [Working with Atom](#working-with-atom)
